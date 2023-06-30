@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./task4_.py",
+        "./task4.py"
+    ]
+}
